@@ -1,10 +1,10 @@
 var name = "Joe"
 var height = "74"
 // test below
-if (name === "Joe") {
+if (name === "Susan") {
     console.log("The name is correct")
 } else {
-  console.log("wrong")
+  console.log("expect name 2 b susan")
 }
 
 // Don't worry about this
